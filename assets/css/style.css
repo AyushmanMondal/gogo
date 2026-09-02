@@ -1,4 +1,5 @@
-:root{
+<style>
+  :root{
     --blue:#4f8cff;
     --blue-dark:#7db0ff;
     --bg:#000000;
@@ -233,3 +234,5 @@
     .item{padding:16px 16px;gap:14px;}
     .item .name{font-size:14px;}
   }
+</style>
+        
