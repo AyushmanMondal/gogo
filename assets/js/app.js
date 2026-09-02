@@ -1,4 +1,4 @@
-/* ── Icons ── */
+  /* ── Icons ── */
 
   function folderIcon(disabled){
     const c = disabled ? '#2a2a2a' : '#2f6fed';
@@ -10,7 +10,6 @@
     </svg>`;
   }
 
-  /* ── Navigation ── */
   let stack = [root];
 
   function goBack(){
@@ -117,3 +116,4 @@
   }
 
   render();
+      
